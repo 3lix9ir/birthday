@@ -1,13 +1,2 @@
-# reirei
-<<<<<<< HEAD
-what the freak
+birth
 
-=======
-# reirei
-# birthday
->>>>>>> 260f45d (first commit)
-# birthday
-# birthday
-# birthday
-# birthday
-# birthday
